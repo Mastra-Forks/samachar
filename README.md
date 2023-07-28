@@ -51,9 +51,6 @@ To set up the News App on your local machine, follow these steps:
 
 6. Build and run the app on your emulator or physical device.
 
-## Build Tools
-
-
 ## Credits 📖
 [News API](https://newsapi.org/) is used to get all the news.This News App is inspired and built upon the foundation of various open-source projects and APIs, which we acknowledge and thank for their valuable contributions.
 
