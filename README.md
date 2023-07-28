@@ -24,12 +24,12 @@ A complete beautiful news app in flutter. Multiple themes, search functionality,
 
 <p float="left">
     <img alt="Loading Screen" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_loading_screen.png" width="200" height="400"/>
-    <img alt="Home Screen" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_home_page1_light.png" width="200" height="400"/>
-    <img alt="Home Screen" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_home_page2_light.png" width="200" height="400"/>
-    <img alt="Home Screen" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_home_page1_dark.png" width="200" height="400"/>
-    <img alt="Home Screen" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_home_page2_dark.png" width="200" height="400"/>
-    <img alt="Home Screen" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_news_page_light.png" width="200" height="400"/>
-    <img alt="Adding Screen" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/newsapp_news_page_dark.png" width="200" height="400"/>
+    <img alt="Home Screen 1 Light" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_home_page1_light.png" width="200" height="400"/>
+    <img alt="Home Screen 2 Light" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_home_page2_light.png" width="200" height="400"/>
+    <img alt="Home Screen 1 Dark" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_home_page1_dark.png" width="200" height="400"/>
+    <img alt="Home Screen 2 Dark" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_home_page2_dark.png" width="200" height="400"/>
+    <img alt="News Page Light" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_news_page_light.png" width="200" height="400"/>
+    <img alt="News Page Dark" src="https://raw.githubusercontent.com/sabinmhx/samachar/master/images/samachar_news_page_dark.png" width="200" height="400"/>
 </p>
 
 ## Setup Instructions
